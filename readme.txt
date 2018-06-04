@@ -2,4 +2,4 @@ aaa
 bbb
 eee
 
-now ,add a branch!
+Creating a new branch is quick AND simple.
